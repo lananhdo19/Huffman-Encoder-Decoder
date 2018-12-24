@@ -1,8 +1,8 @@
 # Huffman Encoder and Decoder
 
-### Compiles into two executables in make: ./encoder and ./decoder
+### Was part of CS2150 coursework giving credit to the original author of Heap.h and Heap.cpp 
 
-Executables take in one textfile
+Compiles into two executables (./encoder and ./decoder) that take in one textfile
 
 Encoder takes text and prints out the prefix codes per individual character, encoded text, and information about compression cost and ratio
 
